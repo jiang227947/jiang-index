@@ -12,8 +12,8 @@
 
   ><a href="#" alt="#"><span style="font-size: 1.5em;">|</span> <a href="#" alt="#">
   <img src="https://camo.githubusercontent.com/cf1a0ef083a2372d7f66b4691d5d25bfd8c098f42871e8da90edb1f32ed187c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074?style=flat&labelColor=black"/></a> <span style="font-size: 1.5em;">|</span> <a href="#" alt="#">
-  <img src="https://camo.githubusercontent.com/8b76dad952a5f01b227f0fc83168009e115d7a0c5f9eca6ea918d6ae4e71b8ff/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074?style=flat&labelColor=black"/></a> <span style="font-size: 1.5em;"></span> <a href="#" alt="#">
-  </a></a><span style="font-size: 1.5em;">|</span> <a href="#" alt="#">Java</a>
+  [![TypeScript](https://prototypicalpro.github.io/prototypicalpro/readme/badge-15.svg)](#)</a> <span style="font-size: 1.5em;"></span> <a href="#" alt="#">
+  </a></a><span style="font-size: 1.5em;">|</span> <a href="#" alt="#">[![Java](https://prototypicalpro.github.io/prototypicalpro/readme/badge-25.svg)](#)</a>
 </p>
 
 <p align="left">
