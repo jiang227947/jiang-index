@@ -46,7 +46,7 @@
 
 <p align="left">
   🏬 Deploy:
-  
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   > <a href="#" alt="#"> <img src="https://camo.githubusercontent.com/204410115a0bb658668e7446bfc6a7eadb6a96a98d81daba65ddaaa541e95f58/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3234393645443f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465?style=flat&labelColor=black"/></a>
 </p>
   
